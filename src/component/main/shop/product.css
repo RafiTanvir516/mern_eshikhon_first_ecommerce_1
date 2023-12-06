@@ -1,0 +1,11 @@
+.pImage {
+  box-shadow: rgba(209, 206, 206, 0.35) 0px 5px 15px;
+  border: 2px solid rgba(209, 206, 206, 0.35);
+  display: grid;
+  place-items: center;
+}
+.main-cart {
+  box-shadow: rgba(209, 206, 206, 0.35) 0px 5px 15px;
+  padding: 20px;
+  margin-bottom: 20px;
+}

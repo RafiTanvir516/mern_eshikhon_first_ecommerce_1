@@ -1,0 +1,14 @@
+#navbarSupportedContent a {
+  color: white;
+  margin: 0 15px;
+  transition: all 0.3s linear;
+}
+#navbarSupportedContent a:hover {
+  color: #ff9900;
+}
+.sidenav {
+  margin-right: 140px;
+}
+.logonav {
+  margin-left: 145px;
+}
